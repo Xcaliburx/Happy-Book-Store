@@ -1,0 +1,46 @@
+.title{
+    text-align: center;
+    color: white;
+    background-color: blue;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.home{
+    margin-right: 10px;
+}
+
+.category{
+    margin-left: 10px;
+}
+
+.main-content{
+    width: 70%;
+    margin-left: 15%;
+}
+
+.main-content h3{
+    background-color: orange;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.category{
+    margin-right: 60px;
+}
+
+.category h3{
+    padding-right: 50px;
+    background-color: orange;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+footer{
+    background-color: blue;
+    color: white;
+    margin-top: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
